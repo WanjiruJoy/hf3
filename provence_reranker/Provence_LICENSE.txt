@@ -1,0 +1,45 @@
+Provence, Copyright (C) 2024, 2025 Naver Corporation
+
+Provence is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license [CC BY-NC-ND 4.0 license].
+
+The datasets set forth in PART 2 below and model training utilities set forth in PART 3 below, which are not being distributed herewith, were used to train the Provence model(s) and/or checkpoint(s) distributed herewith, which model(s) and/or checkpoint(s) are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 license [CC BY-NC-ND 4.0 license], provided you agree, notwithstanding any applicable law to the contrary, that: (A) "Adapted Material" as used in the CC BY-NC-ND 4.0 license includes (but is not limited to) (i) any models trained on or refined using the Provence models and/or checkpoints, or the weights or biases from such trained models, in whole or in part, and (ii) any output produced using the Provence models and/or checkpoints or any materials adapted under (i), and (B) "commercial advantage" as used in the license includes (but is not limited to) any use of the Provence models and/or checkpoints (i) in other than in a virtual test environment (e.g., in any system, network, or infrastructure, forming part of an apparatus or service, even if no monetary compensation is received for such apparatus or service, and even if not operated by a human) and (ii) for any purpose that is excluded by any license set forth in PART 2 or PART 3 below.
+
+A summary of the CC BY-NC-SA 4.0 license is located here:
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+The CC BY-NC-SA 4.0 license is located here:
+	https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+*****************************************************************************************************************
+SEE NOTICES BELOW CONCERNING SOFTWARE FILES (PART 1) AND DATASETS (PART 2) AND MODEL TRAINING UTILITIES (PART 3):
+*****************************************************************************************************************
+
+---------------------------------------------------------
+PART 1: SEE NOTICES BELOW WITH RESPECT TO SOFTWARE FILES:
+---------------------------------------------------------
+
+None.
+
+---------------------------------------------------
+PART 2: SEE NOTICES BELOW WITH RESPECT TO DATASETS:
+---------------------------------------------------
+
+A. The following dataset, which are not being distributed herewith, was used to train the model(s) and/or checkpoint(s) distributed with the software (under the terms provided therewith):
+https://microsoft.github.io/msmarco/
+
+B. The dataset in Part 2.A was labeled using Meta-Llama-3-8B-Instruct available here:
+https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
+under the following conditions:
+https://huggingface.co/meta-llama/Meta-Llama-3-8B/blob/main/LICENSE
+
+-------------------------------------------------------------------
+PART 3: SEE NOTICES BELOW WITH RESPECT TO MODEL TRAINING UTILITIES:
+-------------------------------------------------------------------
+
+A. DeBERTa (Decoding-enhanced BERT with Disentangled Attention), which was used to train the model(s) and/or checkpoint(s) distributed with the software, is available here:
+https://huggingface.co/microsoft/deberta-large
+under the following conditions:
+https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md
+
+
+
